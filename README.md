@@ -2,4 +2,5 @@
 
 Repositorio de codigos do desafio "100 days of code" com enfase na linguagem Python.
 
-- [ ] Dia 1 - Gerador de nomes para banda (Variaveis)
+- [x] Dia 001 - Gerador de nomes para banda (Variaveis)
+- [ ] Dia 002 - Calculadora de divisão de contas. 
